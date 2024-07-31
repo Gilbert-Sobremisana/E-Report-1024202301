@@ -1,0 +1,1 @@
+This project leverages advanced statistical techniques, machine learning algorithms, and mathematical modeling to categorize the clientele of a telecom company into four distinct groups. This classification will enable the company to tailor its services more effectively to specific customer segments
