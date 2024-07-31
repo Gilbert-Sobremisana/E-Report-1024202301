@@ -1,1 +1,2 @@
+This is a project that clusters or classifies clients into 4 clusters based on various parameters. This project includes an E-report of data interpretation and analysis as well the codes in both R and Python that was used to generate the E-report.
 This project leverages advanced statistical techniques, machine learning algorithms, and mathematical modeling to categorize the clientele of a telecom company into four distinct groups. This classification will enable the company to tailor its services more effectively to specific customer segments
